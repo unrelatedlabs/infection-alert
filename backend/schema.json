@@ -1,0 +1,84 @@
+[{
+		"mode": "NULLABLE",
+		"name": "day",
+		"type": "STRING"
+	},
+	{
+		"name": "timestamp",
+		"type": "TIMESTAMP"
+	},
+	{
+		"name": "user_id",
+		"type": "STRING"
+	},
+	{
+		"mode": "NULLABLE",
+		"name": "timezone",
+		"type": "STRING"
+	},
+	{
+		"mode": "NULLABLE",
+		"name": "location",
+		"type": "GEOGRAPHY"
+	},
+	{
+		"mode": "NULLABLE",
+		"name": "baseline",
+		"type": "FLOAT"
+	},
+	{
+		"mode": "NULLABLE",
+		"name": "restingHeartRate",
+		"type": "FLOAT"
+	},
+	{
+		"mode": "NULLABLE",
+		"name": "dayBaseline",
+		"type": "FLOAT"
+	},
+	{
+		"mode": "NULLABLE",
+		"name": "dayHeartRate",
+		"type": "FLOAT"
+	}, {
+		"mode": "NULLABLE",
+		"name": "sleepBaseline",
+		"type": "FLOAT"
+	},
+	{
+		"mode": "NULLABLE",
+		"name": "sleepHeartRate",
+		"type": "FLOAT"
+	},
+	{
+		"fields": [{
+				"mode": "NULLABLE",
+				"name": "timestamp",
+				"type": "TIMESTAMP"
+			},
+			{
+				"mode": "NULLABLE",
+				"name": "heartrate",
+				"type": "FLOAT"
+			},
+			{
+				"mode": "NULLABLE",
+				"name": "motion",
+				"type": "INTEGER"
+			},
+			{
+				"mode": "NULLABLE",
+				"name": "deviceType",
+				"type": "STRING"
+			},
+			{
+				"mode": "NULLABLE",
+				"name": "deviceOS",
+				"type": "STRING"
+			}
+		],
+		"mode": "REPEATED",
+		"name": "heartrates",
+		"type": "RECORD"
+	}
+]
