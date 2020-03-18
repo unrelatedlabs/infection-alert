@@ -95,8 +95,12 @@ struct ApiResponse:Codable{
 
 class Api: NSObject {
  
-    //let endpointPrefix =  "https://infection-alert.appspot.com"
+    
+    #if DEBUG
+    static let endpointPrefix =  "https://infection-alert.appspot.com"
+    #else
     static let endpointPrefix =  "https://4d172dfe.ngrok.io"
+    #endif
 
     static func post<T>(_ path:String, data:T) -> Promise<ApiResponse> where T : Encodable{
         return Promise<ApiResponse>(on: .main) { fulfill, reject in
