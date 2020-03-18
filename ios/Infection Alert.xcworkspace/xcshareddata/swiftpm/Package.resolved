@@ -1,0 +1,97 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cryptor",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueCryptor.git",
+        "state": {
+          "branch": null,
+          "revision": "12d2bf3ec7207ec3cd004b9582f69ef5fae1da3b",
+          "version": "1.0.32"
+        }
+      },
+      {
+        "package": "CryptorECC",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueECC.git",
+        "state": {
+          "branch": null,
+          "revision": "73f362cb0d9c5f1fd0089240d7b293cd2bff18db",
+          "version": "1.2.5"
+        }
+      },
+      {
+        "package": "CryptorRSA",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueRSA.git",
+        "state": {
+          "branch": null,
+          "revision": "8ea901f2582296837d88f882b0fa5a0601759598",
+          "version": "1.0.35"
+        }
+      },
+      {
+        "package": "CareKit",
+        "repositoryURL": "https://github.com/carekit-apple/CareKit",
+        "state": {
+          "branch": null,
+          "revision": "16e8eab02fc3bf8de80dc8e25ea4e5fafaf32eb6",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "KituraContracts",
+        "repositoryURL": "https://github.com/IBM-Swift/KituraContracts.git",
+        "state": {
+          "branch": null,
+          "revision": "a30e2fb79e926672776a05ec6b919c239870a221",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "3357dd9526cdf9436fa63bb792b669e6efdc43da",
+          "version": "1.9.0"
+        }
+      },
+      {
+        "package": "Promises",
+        "repositoryURL": "https://github.com/google/promises.git",
+        "state": {
+          "branch": null,
+          "revision": "6b6f4fe3385ed37389fb231bc40be81de2f1230f",
+          "version": "1.2.8"
+        }
+      },
+      {
+        "package": "SigmaSwiftStatistics",
+        "repositoryURL": "https://github.com/evgenyneu/SigmaSwiftStatistics.git",
+        "state": {
+          "branch": null,
+          "revision": "d36db09f97a1739edc8c63897220c7ecbb5de684",
+          "version": "9.0.2"
+        }
+      },
+      {
+        "package": "SwiftJWT",
+        "repositoryURL": "https://github.com/IBM-Swift/Swift-JWT.git",
+        "state": {
+          "branch": null,
+          "revision": "0d435423d12e61c0d14adb6d04396c08a6a650f1",
+          "version": "3.6.1"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "74d7b91ceebc85daf387ebb206003f78813f71aa",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,6707 @@
+[
+  {
+    "baseline": 35,
+    "day": "2020-03-15",
+    "dayHeartRate": 71,
+    "heartrates": [
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 606002401.35149348
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 606002226.35149348
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 606001686.85123098
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 606001501.35015678
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 606001344.35031176
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 606000950.84865057
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 606000492.34665954
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 606000201.34665954
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 0,
+        "timestamp": 605999918.34665954
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605999830.34665954
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605999328.32641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605999243.82641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605998871.82641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605998579.32641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605998129.82641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605997870.82641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605997638.82641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605997362.32641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605996977.32641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605996769.32641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605996546.82641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605996253.82641554
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605995735.32347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605995411.32347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605995172.82347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605994791.82347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605994641.32347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605994199.82347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605994109.32347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605993869.82347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 0,
+        "timestamp": 605993314.32347119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76.800003051757812,
+        "motion": 0,
+        "timestamp": 605993169.58518994
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605993156.58518994
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605992852.35081494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605992517.85081494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 1,
+        "timestamp": 605992313.85081494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605991924.07317722
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605991685.07334459
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 92,
+        "motion": 2,
+        "timestamp": 605991558.49555779
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605991380.34672046
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 94,
+        "motion": 0,
+        "timestamp": 605991009.84558606
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 104,
+        "motion": 2,
+        "timestamp": 605990987.75230014
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605990770.6032362
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 0,
+        "timestamp": 605990301.60334063
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605990091.60318446
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605989934.60289395
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605989671.59998941
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605978673.78502381
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 89,
+        "motion": 0,
+        "timestamp": 605978379.26335371
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605967476.30220461
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605967186.29886127
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605966911.29977942
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605966576.30114222
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605966386.30097044
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605966021.30063093
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 0,
+        "timestamp": 605965726.30056703
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68.725173950195312,
+        "motion": 0,
+        "timestamp": 605965659.56999028
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605965379.56971085
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605965094.56935787
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605964774.56935787
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605964484.56909978
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605964174.56909978
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605963923.56825757
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605963799.56825757
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605963294.56733727
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605962974.56581867
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605962714.56683493
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605962374.56666207
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605962074.56638396
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605961830.06622171
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605961479.56610262
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605961184.56529808
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605961019.56380665
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605960589.5654639
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605960299.44024932
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605959974.43914175
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605959869.44000423
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605959379.31457353
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605959144.31482995
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605958804.18962288
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605958484.06440103
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605958204.06428969
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605957893.92685628
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605957608.93769467
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605957388.93769467
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605956983.81454992
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605956708.81439006
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605956418.81403708
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605956108.81397247
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605955778.81386924
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605955481.30546701
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605955213.81315589
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605954883.81225312
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605954598.81342494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605954278.80421865
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605953983.81281233
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605953688.80719185
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605953378.81287086
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605953083.81248713
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605952778.81248713
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605952493.81199372
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605952353.81191075
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605951888.81138432
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605951593.80831611
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 0,
+        "timestamp": 605951323.81078446
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60.472442626953125,
+        "motion": 0,
+        "timestamp": 605951257.05995977
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605950997.05995977
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605950676.93486845
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605950386.93443048
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605950076.80482495
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605949801.79452825
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605949571.80888247
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605949176.68331158
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605948931.17802298
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605948581.54431796
+      }
+    ],
+    "location": "POINT(0.0 0.0)",
+    "restingHeartRate": 57.840000000000003,
+    "sleepHeartRate": 58,
+    "timestamp": 606002401.35149348,
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "baseline": 35,
+    "day": "2020-03-14",
+    "dayHeartRate": 70,
+    "heartrates": [
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605948281.43245447
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 55,
+        "motion": 1,
+        "timestamp": 605947992.4319526
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605947777.43193555
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605947376.30639768
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605947136.30584669
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605946796.18030179
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605946476.05365956
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605946266.05470443
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605945893.42455411
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605945585.92845047
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605945345.92880094
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605944985.80083692
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605944695.80313706
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605944510.79896426
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605944365.80279708
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605943885.30217206
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605943749.79452395
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605943312.30047512
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605943110.30033803
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605942642.79990518
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605942289.79905605
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605942122.79946494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 0,
+        "timestamp": 605941698.2990675
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605941559.29746211
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605941271.29892802
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605941061.29980862
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605940476.30061483
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605940331.80107009
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605940050.80032372
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 0,
+        "timestamp": 605939716.79734015
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 1,
+        "timestamp": 605939426.79905403
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605939125.79805791
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605938720.79785407
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605938552.79785407
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605938145.29758251
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605938017.5571537
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605937531.43254983
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605937454.93213189
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605936928.67445254
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605936832.67779291
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605936417.55233943
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605936152.05227757
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605935727.4266212
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605935424.42555797
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605935169.30055797
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605934935.80050933
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605934680.67690504
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605934466.67594838
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605933951.54936111
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605933601.54962182
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605933426.42419875
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 89,
+        "motion": 1,
+        "timestamp": 605932788.29839122
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605932441.28575051
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605932235.17208529
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605932002.6727469
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605931521.54714835
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605931247.04692721
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605930985.41974831
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605930809.40845609
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605930411.42099857
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605929749.41949403
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605929321.66961265
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605928837.91949022
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605928528.41752708
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605928250.41878331
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605927904.89312196
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 0,
+        "timestamp": 605927403.29208052
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605926987.29199743
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605926846.1668632
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605926402.66645944
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605926160.1614722
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605926005.66620505
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 100,
+        "motion": 2,
+        "timestamp": 605925723.08852983
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 0,
+        "timestamp": 605925530.4437815
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605925313.44438255
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 0,
+        "timestamp": 605925028.43911529
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 2,
+        "timestamp": 605924986.35113549
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605924598.70179164
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605924505.20160985
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605924126.20096242
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605923888.20111215
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605923399.20006692
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605923193.20057786
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605922901.20027494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69.189186096191406,
+        "motion": 0,
+        "timestamp": 605922778.45791388
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605922749.95791388
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 92,
+        "motion": 0,
+        "timestamp": 605922194.95767748
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605922061.95736182
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605921572.95580101
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 97,
+        "motion": 0,
+        "timestamp": 605921139.80717063
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605920738.307307
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605920451.80736995
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605920200.80734718
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605919965.30641353
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605919506.80446935
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605919443.30706859
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605919021.68112755
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605918686.55740595
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605918564.557464
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605918057.56076872
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 95,
+        "motion": 1,
+        "timestamp": 605917787.06072092
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605917490.04396021
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605917133.06002438
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605916971.43476498
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605916657.43554962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 95,
+        "motion": 0,
+        "timestamp": 605916274.80344284
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605916170.30584955
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 86,
+        "motion": 1,
+        "timestamp": 605915753.18107164
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605915459.18007898
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605915175.05499148
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605914836.05483651
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605914508.92944455
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 0,
+        "timestamp": 605914346.42924547
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605913908.30427134
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605913692.30395484
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605913235.66755855
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605913122.67436492
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605912739.54866827
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605912419.04835868
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605912241.54828441
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605911837.29014409
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605911531.66472661
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605911134.66348994
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605910820.53729427
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 0,
+        "timestamp": 605910667.52742827
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605910311.80999291
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 0,
+        "timestamp": 605910144.66579366
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605909676.67330515
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 90,
+        "motion": 0,
+        "timestamp": 605909107.06015277
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605908822.93454218
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 0,
+        "timestamp": 605908210.43592453
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605907921.43530953
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605907577.93660998
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605907188.43816698
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605907126.31316698
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605906870.31278408
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605906526.18714654
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605906246.18264532
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605905766.18655217
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605905393.68567443
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 0,
+        "timestamp": 605905201.18584561
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605904834.68555033
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605904592.56009185
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 0,
+        "timestamp": 605904411.05974483
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605904146.43465912
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605903310.93253708
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605903169.9324764
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605902934.93208158
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605902519.93209434
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605902243.41878068
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605901821.44145644
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605901669.93917811
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605901318.9378854
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605901055.9372468
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 0,
+        "timestamp": 605900741.93631327
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605900327.43625796
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605900031.43587375
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 88,
+        "motion": 0,
+        "timestamp": 605899728.81190217
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 86,
+        "motion": 1,
+        "timestamp": 605899387.31124234
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605899316.68650687
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605898963.68315685
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 2,
+        "timestamp": 605898762.62232316
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605898535.41874242
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605898244.79622555
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605897996.29480302
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605897781.79618251
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605897346.93970299
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605897241.43970299
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605896513.81299376
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 0,
+        "timestamp": 605896327.31299376
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 2,
+        "timestamp": 605896282.73523498
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605895809.28481889
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605895729.78422868
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605895386.15905106
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 86,
+        "motion": 1,
+        "timestamp": 605894672.53278947
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 0,
+        "timestamp": 605894442.02486122
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 92,
+        "motion": 0,
+        "timestamp": 605894017.90324378
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605893884.40324378
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605893524.27803659
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 1,
+        "timestamp": 605893224.77767467
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605893069.77712154
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605892676.64889967
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605892269.52684593
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605891906.52645671
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605891716.52604187
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605891571.52408707
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 86,
+        "motion": 0,
+        "timestamp": 605891247.66628289
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605890989.76724684
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605890757.76564634
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605890374.76674354
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605890099.63783038
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605889798.64204407
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605889514.52066207
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605889249.52027166
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605888884.51962602
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605888579.51786745
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605888284.51786745
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605887974.51557577
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605887749.51535583
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605887424.01468527
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605887114.51479352
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605886817.51452065
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605886474.51253378
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605886209.51348817
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605885874.51332927
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605885639.51319146
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605885277.38785815
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605884974.38731265
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605884674.26136434
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605884404.26138961
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605884174.26136637
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605883799.26120746
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605883509.26098168
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605883174.26096344
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605882889.2608701
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605882609.26082754
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605882299.26057971
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605881984.25358009
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605881789.2604351
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605881374.26035225
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605881074.25702095
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605880784.26000011
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605880542.75983799
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605880224.25966394
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605879884.25693345
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605879604.2594403
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 0,
+        "timestamp": 605879369.25939965
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60.952381134033203,
+        "motion": 0,
+        "timestamp": 605879257.53187454
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605879056.03341687
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605878692.53659248
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605878482.53630638
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605878262.53611767
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605877792.53517139
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605877477.53404832
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605877182.53386891
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605876882.53487957
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605876592.53497136
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605876287.53388608
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605875977.53334582
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605875743.03004181
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605875507.53385377
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605875092.53299677
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605874807.53219891
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605874497.5315063
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605874292.53137207
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605873947.53114116
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605873577.53069985
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605873277.52796936
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605873022.5300492
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605872677.52942717
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605872412.53014088
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605872077.52980745
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605871777.52952933
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605871489.02356648
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605871197.5195477
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605870882.52901077
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605870597.52929735
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605870282.52659607
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605870012.53018475
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605869677.52955043
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605869507.52906919
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605869082.52897096
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605868787.52487063
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605868544.02823746
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605868182.52612138
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605867902.52500832
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605867577.52468133
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605867277.5251807
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605866977.52480769
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605866677.5233531
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605866408.02451456
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605866107.4003197
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605865777.39998817
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605865492.27465928
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605865177.27433658
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 0,
+        "timestamp": 605864967.27403808
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61.439998626708984,
+        "motion": 0,
+        "timestamp": 605864855.53357196
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605864585.4104799
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605864280.4104104
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605863980.41039824
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605863705.41000772
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605863526.28475666
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605863090.40735149
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605862795.40880692
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605862475.40839458
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605862175.40809846
+      }
+    ],
+    "location": "POINT(0.0 0.0)",
+    "restingHeartRate": 57,
+    "sleepHeartRate": 58,
+    "timestamp": 605948281.43245447,
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "baseline": 35,
+    "day": "2020-03-13",
+    "dayHeartRate": 70,
+    "heartrates": [
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605861940.40799475
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605861575.40822172
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605861275.40777159
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605861080.39222646
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605860710.4061147
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605860395.40641606
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605860191.90535796
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605860055.40595531
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 98,
+        "motion": 2,
+        "timestamp": 605859927.81238782
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605859663.66305709
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605859175.66252565
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605859017.65702105
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605858635.66195107
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605858355.66076601
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605857990.66072345
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605857685.65883851
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605857390.65955269
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605857255.65955269
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605857036.65955269
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605856654.65714264
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605856277.1540904
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605855940.65398812
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605855744.65315378
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605855567.65368474
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605855171.65328383
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605854907.652879
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605854533.65295601
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605854253.64837992
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605853952.15252817
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605853540.6522367
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605853351.65087163
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605853079.1470381
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605852826.15135372
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605852321.65155077
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75.665023803710938,
+        "motion": 0,
+        "timestamp": 605852223.91290164
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605852028.91290164
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605851863.41290164
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605851416.91267049
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605851353.4096005
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605850950.41247892
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605850710.41227174
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605850201.59553719
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605849906.59375715
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605849579.59556353
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605849299.09511137
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605849112.09511137
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605848808.09468555
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605848467.09390187
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605848263.59385586
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605848012.09388113
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605847602.09229314
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605847294.59229314
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605847095.09343421
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605846616.09265637
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605846490.59265637
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605846147.09235132
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 99,
+        "motion": 1,
+        "timestamp": 605845720.59222293
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 89,
+        "motion": 1,
+        "timestamp": 605845548.09125054
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 1,
+        "timestamp": 605845096.09159744
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 86,
+        "motion": 1,
+        "timestamp": 605845031.59159744
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 0,
+        "timestamp": 605844750.58659399
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605843675.51596272
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605843556.01587117
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 0,
+        "timestamp": 605843081.39017653
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 0,
+        "timestamp": 605842670.76494408
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 1,
+        "timestamp": 605842300.26468205
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 88,
+        "motion": 2,
+        "timestamp": 605841930.93274009
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 102,
+        "motion": 0,
+        "timestamp": 605841607.28662789
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605841241.79095149
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605841126.29095292
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 2,
+        "timestamp": 605840888.21308994
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605840702.01328313
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 97,
+        "motion": 2,
+        "timestamp": 605840517.43547106
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605840310.22783566
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605840165.73155403
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605839930.73073745
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 0,
+        "timestamp": 605839561.23074651
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 2,
+        "timestamp": 605839474.65298772
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 2,
+        "timestamp": 605839316.85980797
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 95,
+        "motion": 2,
+        "timestamp": 605839169.08631659
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 0,
+        "timestamp": 605839021.89049888
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 0,
+        "timestamp": 605838732.38899946
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 2,
+        "timestamp": 605838640.31124067
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 0,
+        "timestamp": 605838472.16737723
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 91,
+        "motion": 2,
+        "timestamp": 605838375.60499167
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 84,
+        "motion": 2,
+        "timestamp": 605837983.8821125
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605837767.18228769
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605837570.68282151
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605837258.67957687
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67.964599609375,
+        "motion": 0,
+        "timestamp": 605836989.36711252
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605836926.86711252
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605836630.36232853
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605834338.69082403
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605834074.68996966
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605833834.15938282
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 84,
+        "motion": 1,
+        "timestamp": 605833554.1855638
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605833078.18906474
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605832924.68945086
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605832515.18842649
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 0,
+        "timestamp": 605832424.68925834
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605831995.68882263
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605831798.18862009
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605831454.68027747
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605830983.18458152
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605830870.18454289
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605830639.67625451
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605830159.18498874
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605829790.67882597
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605829721.1847837
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605829314.68865323
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 1,
+        "timestamp": 605828911.68817198
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605828705.68797517
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605828560.18793559
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605828212.68749321
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605827735.68676424
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605827408.6832881
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605827247.68191433
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605827029.18627119
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605826475.68562281
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 0,
+        "timestamp": 605826389.68298006
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605825953.18498516
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605825628.68469453
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 0,
+        "timestamp": 605825553.1834532
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605825260.17851496
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605824783.68376207
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605824613.6819979
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605824331.68334067
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 0,
+        "timestamp": 605824016.182217
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605823547.37853706
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605823294.37478244
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605822997.88706827
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605822800.38663614
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 0,
+        "timestamp": 605822510.88646722
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605822250.88626444
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605821919.60493279
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605821534.10470939
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 98,
+        "motion": 1,
+        "timestamp": 605821372.31952488
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 84,
+        "motion": 1,
+        "timestamp": 605820798.31939852
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605820719.81919324
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 0,
+        "timestamp": 605820178.81906402
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605820054.58030748
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605819445.08295619
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605819205.58383667
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 2,
+        "timestamp": 605819180.00607789
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605818703.81360745
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605818532.31362283
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 101,
+        "motion": 2,
+        "timestamp": 605818315.24854255
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605804280.67548573
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605804098.6747241
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605803686.54919732
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605803525.04919732
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 88,
+        "motion": 0,
+        "timestamp": 605803328.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 89,
+        "motion": 0,
+        "timestamp": 605803326.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 0,
+        "timestamp": 605803321.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 99,
+        "motion": 0,
+        "timestamp": 605803314.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 84,
+        "motion": 0,
+        "timestamp": 605803307.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605803304.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605803300.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 84,
+        "motion": 0,
+        "timestamp": 605803296.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 98,
+        "motion": 0,
+        "timestamp": 605803291.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 92,
+        "motion": 0,
+        "timestamp": 605803287.18879962
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 1,
+        "timestamp": 605803247.36537814
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605802843.36453056
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605802551.36439645
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605802431.23835015
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605801876.23773348
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605801574.23848212
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605801291.23825681
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605801081.23816502
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605800691.22985494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605800406.23911083
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605800076.23802006
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605799779.23802006
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605799566.23769248
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605799181.2369132
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605799021.2369132
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605798576.23696935
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605798346.23696935
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605797976.23634863
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605797691.23766136
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605797376.17101383
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605797076.23698032
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605796886.23692131
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605796526.23648226
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605796221.2329011
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605796131.2329011
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605795661.73520589
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605795368.23520589
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605795005.23477817
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605794706.23407698
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605794376.23407698
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605794096.10805392
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605793776.10805392
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605793510.98330784
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 57,
+        "motion": 1,
+        "timestamp": 605793175.98267519
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 0,
+        "timestamp": 605792955.981812
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56.785480499267578,
+        "motion": 0,
+        "timestamp": 605792854.70789456
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605792594.70789456
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 56,
+        "motion": 1,
+        "timestamp": 605792309.70745206
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605791983.70745206
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605791694.70649862
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605791409.70597208
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605791094.57909381
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605790784.57909381
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605790504.45347524
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605790209.4527396
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605789879.45315957
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605789584.45303917
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605789506.95303917
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605789262.95253539
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605788852.81608307
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605788646.68968749
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605788334.67837322
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605787807.56559837
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605787635.56694412
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605787427.5680418
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605786877.56763327
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605786652.56778431
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605786297.56628537
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605786002.56740952
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605785742.06660295
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605785397.56660295
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605785082.56531799
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605784792.56631184
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605784477.56631184
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605784182.56607652
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605783877.56515968
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605783587.56515968
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605783339.56517935
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605782987.56517935
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605782677.56512034
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605782377.56475973
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605782132.56455266
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605781897.06371319
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605781503.06405842
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605781303.56297481
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605780877.56297481
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605780577.56337821
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605780339.5627507
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605780017.5627507
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605779747.56054747
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605779377.56196797
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605779137.56196797
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605778792.5617528
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 0,
+        "timestamp": 605778582.5612781
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59.767440795898438,
+        "motion": 0,
+        "timestamp": 605778455.76052499
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605778280.76009369
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605778005.75978339
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605777585.75858092
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605777274.75858092
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605777005.75893438
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605776680.75855374
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605776385.75818205
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605776115.756603
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605775880.75682867
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605775605.75712585
+      }
+    ],
+    "location": "POINT(0.0 0.0)",
+    "restingHeartRate": 58,
+    "sleepHeartRate": 58,
+    "timestamp": 605861940.40799475,
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "baseline": 35,
+    "day": "2020-03-12",
+    "dayHeartRate": 70,
+    "heartrates": [
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605775190.75563478
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605774875.75716531
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605774735.75689495
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605774366.75671601
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605774010.75614154
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605773710.75614154
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605773395.75571215
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605773175.75571215
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605772785.75342715
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605772580.74930501
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605772190.75518024
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605771875.75481534
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605771585.75438166
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605771319.25395024
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605770980.75395024
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605770695.25378668
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605770390.74562454
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605770110.74562454
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605769785.75286055
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605769475.75244617
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605769180.75213253
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605768943.25144172
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605768575.75144172
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605768275.75085258
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605768026.25061667
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605767685.74717164
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605767420.74717164
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605767090.74890399
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605766775.74890399
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605766505.74846649
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605766185.74725521
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605765945.74646735
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605765585.74646735
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605765290.74391055
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605765071.24603283
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605764675.74603283
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605764375.74421179
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 0,
+        "timestamp": 605764195.74560833
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63.734439849853516,
+        "motion": 0,
+        "timestamp": 605764058.98270762
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605763776.98270762
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605763503.99079001
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605763183.99079001
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605762888.99057674
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605762578.99020708
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605762383.98990607
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605761975.98990607
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605761703.98940611
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605761464.49014235
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605761372.49018884
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605761004.49238813
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 89,
+        "motion": 1,
+        "timestamp": 605760533.49191749
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605760379.49165332
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 0,
+        "timestamp": 605760134.99120629
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605759868.99083662
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 88,
+        "motion": 1,
+        "timestamp": 605759425.49018395
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 88,
+        "motion": 1,
+        "timestamp": 605759002.8643707
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605758758.86437738
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605758244.23766363
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605757857.73734999
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605757765.73797381
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605756949.23682439
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 93,
+        "motion": 1,
+        "timestamp": 605756753.7366215
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605756482.73631227
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605756092.73504782
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605755245.73479378
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605755061.23483133
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605754603.73357368
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605754337.23358202
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605753656.7326014
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605753430.23261321
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605753194.21738899
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605752681.73139322
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605752408.72920942
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605752092.73062038
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605751999.73062038
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605751745.46015322
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605751195.95963645
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605750875.95934284
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 71,
+        "motion": 1,
+        "timestamp": 605750603.45645547
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605750406.45533383
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605750250.45896173
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605749932.67325151
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 0,
+        "timestamp": 605749464.67343831
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 0,
+        "timestamp": 605749169.17256546
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605748934.67099547
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605748523.67265427
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605748298.17201889
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605747968.67228925
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605747585.17206252
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605747488.67201328
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605747197.17207491
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605746781.17177677
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605746659.17026353
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605746167.67125309
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605745788.17102695
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605745571.16286218
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605745461.17184651
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605745130.17138159
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 0,
+        "timestamp": 605744638.17050636
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605744480.17004633
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605744229.16408145
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 0,
+        "timestamp": 605743899.66408145
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605743559.0445621
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605743092.91805291
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 1,
+        "timestamp": 605742958.91837513
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 0,
+        "timestamp": 605742635.91864526
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 51,
+        "motion": 0,
+        "timestamp": 605742315.42023182
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 0,
+        "timestamp": 605742094.91787553
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 0,
+        "timestamp": 605741671.41873419
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 0,
+        "timestamp": 605741363.41855514
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605741037.41807008
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605740710.41780555
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 0,
+        "timestamp": 605740510.9136374
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605740327.41728246
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 51,
+        "motion": 1,
+        "timestamp": 605739941.41625535
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605739480.4157089
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 0,
+        "timestamp": 605739184.91039371
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605738967.90590227
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605738680.91488695
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605738394.53956342
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 0,
+        "timestamp": 605737694.41342294
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605737564.91173613
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605737239.91265559
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605737007.91274977
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605736568.41232836
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605736364.41209733
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 0,
+        "timestamp": 605736005.41186154
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77.185928344726562,
+        "motion": 0,
+        "timestamp": 605735930.61082935
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 73,
+        "motion": 0,
+        "timestamp": 605735812.61082935
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605735436.61012781
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 0,
+        "timestamp": 605735020.48464954
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605734932.48464954
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605734417.85834754
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605734151.79342914
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 0,
+        "timestamp": 605734069.16814661
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 96,
+        "motion": 1,
+        "timestamp": 605733727.66794622
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605733436.04272926
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 0,
+        "timestamp": 605732941.0386411
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605732775.91726375
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605732325.91695774
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 139,
+        "motion": 2,
+        "timestamp": 605732282.82430637
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 0,
+        "timestamp": 605732056.17097521
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 92,
+        "motion": 2,
+        "timestamp": 605731744.38604701
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 97,
+        "motion": 1,
+        "timestamp": 605731456.56043386
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605731177.55833793
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 97,
+        "motion": 2,
+        "timestamp": 605730959.46730304
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 93,
+        "motion": 1,
+        "timestamp": 605730616.64647019
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 92,
+        "motion": 1,
+        "timestamp": 605730225.02090812
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 0,
+        "timestamp": 605729913.5208863
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605729588.3955555
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605729302.39527011
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605729072.7697376
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605728947.26987493
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605728452.14009166
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605728362.64484847
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 70,
+        "motion": 1,
+        "timestamp": 605728025.64515197
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 0,
+        "timestamp": 605727618.01863825
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605727288.51768839
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 1,
+        "timestamp": 605726966.39246857
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 0,
+        "timestamp": 605726806.39232826
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 1,
+        "timestamp": 605726299.26667774
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605726202.26640821
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 117,
+        "motion": 1,
+        "timestamp": 605725923.14133537
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 87,
+        "motion": 1,
+        "timestamp": 605725441.01588643
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605725178.5127511
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 1,
+        "timestamp": 605724930.51134288
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605724659.38979053
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 1,
+        "timestamp": 605724343.88940704
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605724128.76429677
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 1,
+        "timestamp": 605723812.76025891
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 79,
+        "motion": 1,
+        "timestamp": 605723407.63843405
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605723252.63877308
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605722971.35729015
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 94,
+        "motion": 0,
+        "timestamp": 605722617.35702491
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 104,
+        "motion": 1,
+        "timestamp": 605722212.2321111
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 98,
+        "motion": 2,
+        "timestamp": 605721979.13842726
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 108,
+        "motion": 1,
+        "timestamp": 605721753.30964494
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 89,
+        "motion": 1,
+        "timestamp": 605721294.80916953
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 86,
+        "motion": 1,
+        "timestamp": 605721082.46889389
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605720646.46905637
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 77,
+        "motion": 0,
+        "timestamp": 605720545.46872449
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 93,
+        "motion": 2,
+        "timestamp": 605720499.40664685
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 89,
+        "motion": 1,
+        "timestamp": 605719845.70574415
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605719551.20563006
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605718914.58007121
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 83,
+        "motion": 0,
+        "timestamp": 605718474.95516884
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 1,
+        "timestamp": 605718336.45480657
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605718086.8245275
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605717754.32988071
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605717231.32986951
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605716772.32962763
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 1,
+        "timestamp": 605716498.82948589
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605716091.33055508
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 72,
+        "motion": 1,
+        "timestamp": 605715958.33073413
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 1,
+        "timestamp": 605715577.33043337
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 76,
+        "motion": 1,
+        "timestamp": 605715316.83039963
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 78,
+        "motion": 0,
+        "timestamp": 605715182.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605715176.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 84,
+        "motion": 0,
+        "timestamp": 605715174.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 82,
+        "motion": 0,
+        "timestamp": 605715168.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 85,
+        "motion": 0,
+        "timestamp": 605715164.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 81,
+        "motion": 0,
+        "timestamp": 605715156.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605715155.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 74,
+        "motion": 0,
+        "timestamp": 605715150.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 80,
+        "motion": 0,
+        "timestamp": 605715144.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 84,
+        "motion": 0,
+        "timestamp": 605715140.84617937
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 75,
+        "motion": 1,
+        "timestamp": 605714967.39630795
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69,
+        "motion": 1,
+        "timestamp": 605714612.27118266
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605714317.14672434
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605714089.64646459
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605713857.14591467
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605713387.02058768
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605713141.02058768
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605712826.89577687
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605712506.8943522
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605712176.89580154
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605711896.89513934
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605711596.39535761
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605711291.89527071
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605711016.89268982
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605710676.89268982
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605710376.89409816
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605710091.89349329
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605709781.89349329
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605709496.89284873
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605709221.89253747
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605708902.76727927
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605708611.76675987
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605708286.63917792
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605708016.63917792
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605707846.63917792
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605707431.640275
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605707076.640275
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605706781.63777852
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 0,
+        "timestamp": 605706540.13961351
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61.935482025146484,
+        "motion": 0,
+        "timestamp": 605706455.4129957
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605706175.41223741
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605705875.41223741
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605705575.41199601
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605705285.41139042
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605704995.40739894
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605704700.41010308
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605704390.41010308
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605704082.78477097
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605703820.28443909
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605703485.15860641
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605703192.65860641
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605702891.65407443
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605702720.15407443
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605702280.15704429
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605702065.1569947
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605701744.15679312
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605701375.15470827
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605701085.15625989
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605700805.15625989
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605700490.15498257
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 59,
+        "motion": 1,
+        "timestamp": 605700215.15593529
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605699920.15531015
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605699585.15531015
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605699290.02974701
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605698980.02974701
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 60,
+        "motion": 1,
+        "timestamp": 605698880.02974701
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605698399.90452075
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 63,
+        "motion": 1,
+        "timestamp": 605698149.90415967
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605697784.90387857
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605697474.90358698
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605697199.9022814
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605696943.4022814
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605696574.90238583
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605696289.90180302
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605695974.90180302
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 64,
+        "motion": 1,
+        "timestamp": 605695798.40166986
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605695381.90113235
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605695074.90113235
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605694784.90101981
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605694542.40081191
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605694204.89765811
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605693964.89805377
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605693629.89805377
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605693289.89981401
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605692974.89969814
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605692674.89915323
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605692409.89915323
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 0,
+        "timestamp": 605692144.8997587
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 69.977584838867188,
+        "motion": 0,
+        "timestamp": 605692057.66166675
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 67,
+        "motion": 1,
+        "timestamp": 605691857.66244447
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605691512.66109717
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 66,
+        "motion": 1,
+        "timestamp": 605691250.6623013
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 68,
+        "motion": 1,
+        "timestamp": 605690937.65673673
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 65,
+        "motion": 1,
+        "timestamp": 605690657.65953505
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 58,
+        "motion": 1,
+        "timestamp": 605690467.66191876
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 62,
+        "motion": 1,
+        "timestamp": 605689977.5363102
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605689752.53558302
+      },
+      {
+        "deviceOS": "6.1.2",
+        "deviceType": "Watch4,4",
+        "heartrate": 61,
+        "motion": 1,
+        "timestamp": 605689417.41094089
+      }
+    ],
+    "location": "POINT(0.0 0.0)",
+    "restingHeartRate": 60,
+    "sleepHeartRate": 60,
+    "timestamp": 605775190.75563478,
+    "timezone": "America/Los_Angeles"
+  }
+]
