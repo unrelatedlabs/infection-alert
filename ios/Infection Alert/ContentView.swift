@@ -39,7 +39,7 @@ import CareKit
 
 struct ScatterView: View{
     var heartrates:[(Double,Double,Int)]
-    var colors = [Color.red]// [Color.blue,Color.green, Color.red,Color.black]
+    var colors = [Color.red,Color.red,Color.red,Color.red]// [Color.blue,Color.green, Color.red,Color.black]
     var body: some View{
         VStack{
             GeometryReader { geometry in
