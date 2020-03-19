@@ -13,7 +13,7 @@ struct InfectionTabView: View {
     var body: some View {
         TabView(selection:$selectedTab){
            
-            WebView(url:"https://unrelatedlabs.github.io/infection-alert/content/intro.html")
+            WebView(url:"https://unrelatedlabs.github.io/infection-alert/content/info.html")
                 .tabItem {
                     Image(systemName: "info")
                     Text("Info")
