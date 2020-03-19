@@ -9,27 +9,51 @@
                 }
                 
             </style>
-            
+            <script src="https://unpkg.com/showdown/dist/showdown.min.js
+"></script>
+
     </head>
 <body>
-    <h1>Infection Alert</h1>
-    <p>
+    <script type="markdown" id="md">
+        
+# Infection Alert
+
+Infections raise your resting heart rate, sometimes even before you can feel the symptoms.
+
+This app analyzes heart rate from the Apple Watch and shows you if your heart rate is elevated above your personalized baseline.
+
+Anonymized heart rates and approximate locations are stored on a public server so we can study the spread of the infections through the population.
+
+Any researcher will be able to access the anonymized data.
+
+This is not a coronavirus detection app. Any type of infection or being overworked, training too hard, etc. could elevate your resting heart rate during sleep.
+
+## Open Source and Open Data
+
+The source code of this app is available on GitHub at https://github.com/unrelatedlabs/infection-alert .
+
+Access to public data is available at https://github.com/unrelatedlabs/infection-alert/tree/master/data .
+
+## References
+
+[1] Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study - https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30222-5/fulltext
+
+[2] Digital Health: Tracking Physiomes and Activity Using Wearable Biosensors Reveals Useful Health-Related Information https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5230763/ 
+
+[3] https://github.com/azumio/instantheartrate-connect-ios
+
+    </script>
+    <div id="content">
     
-    Infections raise your resting heart rate, sometimes even before you can feel the symptoms.
-</p>
-<p>
-This app analyzes heart rate from the Apple Watch shows you if your heart rate is elevated above your personal baseline. </p>
-<p> Anonamiyzed heart rates and approximate location are stored to a public server. So we can study the spread of the infection.
-</p>
-<p> Any researcher will be able to access the data.
-<p>
-    This is not a coronavirus detection app. Any type infection or other things like being overworked or tranining too hard could elevate your heart rate durring sleep.
-</p>
+    </div>
 
-<h2>Open Source and Open Data</h2>
-<p>The source code of this app is available on github at <a href="https://github.com/unrelatedlabs/infection-alert">https://github.com/unrelatedlabs/infection-alert</a>.</p>
-<p>Access to the public data is available at <a href="https://github.com/unrelatedlabs/infection-alert/tree/master/data">https://github.com/unrelatedlabs/infection-alert/tree/master/data</a>.</p>
-
+    <script>
+        var converter = new showdown.Converter({simplifiedAutoLink:true}),
+                text = document.getElementById("md").innerText,
+                html = converter.makeHtml(text);
+                document.getElementById("content").innerHTML = html;
+    </script>
+   
 </body>
 </html>
 

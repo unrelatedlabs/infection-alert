@@ -76,5 +76,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate{
 }
 
 extension AppDelegate : UNUserNotificationCenterDelegate, MessagingDelegate{
+    func messaging(_ messaging: Messaging, didReceiveRegistrationToken fcmToken: String) {
+        print("Push token", fcmToken)
+    }
 }
 

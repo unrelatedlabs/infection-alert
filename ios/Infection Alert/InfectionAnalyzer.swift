@@ -139,10 +139,7 @@ class InfectionAnalyzer: NSObject,ObservableObject {
                 day.sleepBaseline = Sigma.average(sleepHeartRateValues)
                 if let variance = Sigma.standardDeviationSample(sleepHeartRateValues),let baseline = day.sleepBaseline, let heartrate = day.sleepHeartRate{
                     day.sleepHeartRateElevated = heartrate > baseline + max(5,variance * 2)
-                    
-                    print(day.day,variance,baseline,heartrate,sleepHeartRateValues)
                 }
-            
             }
             
             let dayHeartRateValues = pastdays.filter{ $0.dayHeartRate != nil }.map{ $0.dayHeartRate! }

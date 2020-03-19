@@ -35,11 +35,18 @@ extension String {
 
 class Authentication{
     
+    var productionKey:String?{
+        if let path = Bundle.main.path(forResource: "production.private.pem", ofType: nil, inDirectory: "cert"){
+            return try? String(contentsOfFile: path, encoding: .utf8)
+        }
+        return nil
+    }
+    
     func generateKey() -> String{
 
         let p256PrivateKey = try! ECPrivateKey.make(for: .prime256v1)
         let privateKeyPEM = p256PrivateKey.pemString
-            
+        print("privateKeyPEM",privateKeyPEM)
         return privateKeyPEM
     }
     
@@ -64,19 +71,33 @@ class Authentication{
         let myHeader = Header()
 
         struct MyClaims: Claims {
-            let exp: Date
-            let uid: String
-            let pbk: String
+            var exp: Date
+            var uid: String
+            var pbk: String?
+            var production: String?
         }
         
         let pubKey = try! ECPrivateKey.init(key: key).extractPublicKey()
+        var userClaims = MyClaims( exp: Date(timeIntervalSinceNow: 3600), uid: pubKey.pemString.sha1() ,pbk: pubKey.pemString)
         
+        #if !DEBUG
+        if let productionKey = self.productionKey{
+            let pubKey = try! ECPrivateKey.init(key: productionKey).extractPublicKey()
+            let productionClaims = MyClaims(exp: Date(timeIntervalSinceNow: 60*10),uid:userClaims.uid)
+            
+            let productionJwtSigner = JWTSigner.es256(privateKey: productionKey.data(using: .utf8)! )
+
+            var productionJWT = JWT(header: myHeader, claims: productionClaims)
+            let signedProductionJWT = try! productionJWT.sign(using: productionJwtSigner)
+            userClaims.production = signedProductionJWT
+        }
+        #endif
         
-        let myClaims = MyClaims( exp: Date(timeIntervalSinceNow: 3600), uid: pubKey.pemString.sha1() ,pbk: pubKey.pemString)
+
 
         //let myClaims = ClaimsStandardJWT(exp: Date(timeIntervalSinceNow: 60*10))
         
-        var myJWT = JWT(header: myHeader, claims: myClaims)
+        var myJWT = JWT(header: myHeader, claims: userClaims)
 
         
         let signedJWT = try! myJWT.sign(using: jwtSigner)
@@ -97,9 +118,9 @@ class Api: NSObject {
  
     
     #if DEBUG
-    static let endpointPrefix =  "https://infection-alert.appspot.com"
+    static let endpointPrefix =  "https://5a03fa0d.ngrok.io"
     #else
-    static let endpointPrefix =  "https://4d172dfe.ngrok.io"
+    static let endpointPrefix =  "https://infection-alert.appspot.com"
     #endif
 
     static func post<T>(_ path:String, data:T) -> Promise<ApiResponse> where T : Encodable{
@@ -120,7 +141,10 @@ class Api: NSObject {
             request.httpMethod = "POST"
             request.setValue("application/json", forHTTPHeaderField: "Content-Type")
             request.setValue("Bearer \(Authentication().new_jwt_token())" , forHTTPHeaderField: "Authorization")
-            request.timeoutInterval = 30
+            if let bundleVersion = Bundle.main.infoDictionary?[kCFBundleVersionKey as String] as? String{
+                 request.setValue(bundleVersion, forHTTPHeaderField: "X-ClientVersion")
+            }
+            request.timeoutInterval = 60
             
             let task = URLSession.shared.uploadTask(with: request, from: uploadData) { data, response, error in
                 if let error = error {

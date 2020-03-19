@@ -102,10 +102,10 @@ class HeartRateDataSource: NSObject {
                     
                     let heartrates = samples.map { sample in HeartRate.from_sample(sample)}
 
-                    DispatchQueue.main.asyncAfter(deadline: DispatchTime.now().advanced(by: .seconds(1))){
+                    //DispatchQueue.main.asyncAfter(deadline: DispatchTime.now().advanced(by: .seconds(1))){
                         //for testing only
                         fulfill(heartrates)
-                    }
+                   // }
                     
                 }
                 self.healthStore.execute(q)

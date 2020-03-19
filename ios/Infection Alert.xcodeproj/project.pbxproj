@@ -36,6 +36,7 @@
 		D01E0080241EEC7E009E3B5D /* CareKitUI in Frameworks */ = {isa = PBXBuildFile; productRef = D01E007F241EEC7E009E3B5D /* CareKitUI */; };
 		D01E0082241EEC7E009E3B5D /* CareKit in Frameworks */ = {isa = PBXBuildFile; productRef = D01E0081241EEC7E009E3B5D /* CareKit */; };
 		D01E0084241EEC7E009E3B5D /* CareKitStore in Frameworks */ = {isa = PBXBuildFile; productRef = D01E0083241EEC7E009E3B5D /* CareKitStore */; };
+		D0310A252422DB7700A418F1 /* cert in Resources */ = {isa = PBXBuildFile; fileRef = D0310A242422DB7600A418F1 /* cert */; };
 		D0324B06241C229F004096FA /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0324B05241C229F004096FA /* Api.swift */; };
 		D03FD9C7241C9FA2007E21BE /* CryptorECC in Frameworks */ = {isa = PBXBuildFile; productRef = D03FD9C6241C9FA2007E21BE /* CryptorECC */; };
 		D058304B241C8BB100DA8BE3 /* LocationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = D058304A241C8BB100DA8BE3 /* LocationProvider.swift */; };
@@ -126,6 +127,7 @@
 		CC150814241974BC0028BF9D /* Infection Alert WatchKit Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Infection Alert WatchKit Extension.entitlements"; sourceTree = "<group>"; };
 		CC150815241974BC0028BF9D /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS6.1.sdk/System/Library/Frameworks/HealthKit.framework; sourceTree = DEVELOPER_DIR; };
 		CED18E0558D327BC6E440706 /* Pods_Infection_Alert_WatchKit_Extension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Infection_Alert_WatchKit_Extension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0310A242422DB7600A418F1 /* cert */ = {isa = PBXFileReference; lastKnownFileType = folder; path = cert; sourceTree = "<group>"; };
 		D0324B05241C229F004096FA /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
 		D058304A241C8BB100DA8BE3 /* LocationProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationProvider.swift; sourceTree = "<group>"; };
 		D059057A241DDFED00CCFF61 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -201,6 +203,7 @@
 		CC1507BF24196D240028BF9D /* Infection Alert */ = {
 			isa = PBXGroup;
 			children = (
+				D0310A242422DB7600A418F1 /* cert */,
 				D0324B05241C229F004096FA /* Api.swift */,
 				CC1507C024196D240028BF9D /* AppDelegate.swift */,
 				CC1507C624196D260028BF9D /* Assets.xcassets */,
@@ -428,6 +431,7 @@
 			files = (
 				D05E35DE241F46F8001BE738 /* sample.json in Resources */,
 				CC1507CD24196D260028BF9D /* LaunchScreen.storyboard in Resources */,
+				D0310A252422DB7700A418F1 /* cert in Resources */,
 				CC1507CA24196D260028BF9D /* Preview Assets.xcassets in Resources */,
 				CC1507C724196D260028BF9D /* Assets.xcassets in Resources */,
 				D059057B241DDFED00CCFF61 /* GoogleService-Info.plist in Resources */,
@@ -848,14 +852,14 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Infection Alert/Preview Content\"";
-				DEVELOPMENT_TEAM = 64P2P43NDF;
+				DEVELOPMENT_TEAM = 5QJ7W2AQ8H;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Infection Alert/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unrelatedlabs.iphone.infectionaler3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unrelatedlabs.iphone.infectionalert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -872,14 +876,14 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Infection Alert/Preview Content\"";
-				DEVELOPMENT_TEAM = 64P2P43NDF;
+				DEVELOPMENT_TEAM = 5QJ7W2AQ8H;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Infection Alert/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unrelatedlabs.iphone.infectionaler3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unrelatedlabs.iphone.infectionalert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;

@@ -63,7 +63,7 @@ struct ScatterView: View{
                            var minRange = 60
                            var range = max(1,maxy-miny)
                            
-                            for (x,y,c) in self.heartrates.filter {v in v.2 == color} {
+                            for (x,y,c) in self.heartrates.filter({v in v.2 == color}) {
                                path.addEllipse(in: CGRect(x: Double(geometry.size.width) * x / 24.0 , y: Double(geometry.size.height) - (y-miny)/range * Double(geometry.size.height), width: 4.0, height: 4.0))
                            }
                            //return path
@@ -217,14 +217,8 @@ struct ContentView: View {
     }
 }
 
-#if DEBUG
 
-struct PreviewHolder:View{
-    @ObservedObject var data = PreviewHeartRateDataObserver()
-    var body: some View {
-        ContentView(data:data.data,dataLoaded: true)
-    }
-}
+
 
 struct ContentHolderView:View{
     @ObservedObject var analyzer = (UIApplication.shared.delegate as! AppDelegate).analyzer
@@ -240,6 +234,15 @@ struct ContentHolderView:View{
         }
     }
 }
+
+#if DEBUG
+struct PreviewHolder:View{
+    @ObservedObject var data = PreviewHeartRateDataObserver()
+    var body: some View {
+        ContentView(data:data.data,dataLoaded: true)
+    }
+}
+
 
 struct ContentView_Previews: PreviewProvider {
    

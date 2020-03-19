@@ -45,7 +45,12 @@ class LocationProvider:NSObject,CLLocationManagerDelegate {
         Timer.scheduledTimer(withTimeInterval: timeout, repeats: false) { (timer) in
             print("Timer fired")
             if let location = self.manager.location{
-                self.fullfill(location.coordinate)
+                self.fullfill(self.anonymizeLocation(location.coordinate))
+                self.lastLocation = location.coordinate
+            }else if let location = self.lastLocation{
+                self.fullfill(self.anonymizeLocation(location))
+            }else{
+                self.reject(LocationError.timeout)
             }
         }
     }
@@ -83,26 +88,55 @@ class LocationProvider:NSObject,CLLocationManagerDelegate {
 
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         guard let last = locations.last else{
-            self.reject(LocationError.notAuthorized)
+            if let last = self.lastLocation{
+                self.fullfill(anonymizeLocation(last))
+            }else{
+                self.reject(LocationError.notAuthorized)
+            }
             manager.stopUpdatingLocation()
             return
         }
-        let r = LocationProvider.randomLocationOffset()
-        let l = last.coordinate
-        self.fullfill( CLLocationCoordinate2D(latitude: max(-90,min(90,r.latitude + l.latitude)), longitude:max(-180,min(180, r.longitude + l.longitude))) )
+        self.fullfill( anonymizeLocation(last.coordinate) )
+        self.lastLocation = last.coordinate
         manager.stopUpdatingLocation()
     }
     
+    func anonymizeLocation(_ loc:CLLocationCoordinate2D) -> CLLocationCoordinate2D{
+        let r = LocationProvider.randomLocationOffset()
+        let l = loc
+        let aproxLoc = CLLocationCoordinate2D(latitude: max(-90,min(90,r.latitude + l.latitude)), longitude:max(-180,min(180, r.longitude + l.longitude)))
+        return aproxLoc
+    }
+    
     func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
-        self.reject(error)
+        if let last = self.lastLocation{
+            self.fullfill(anonymizeLocation(last))
+        }else{
+            self.reject(error)
+        }
         manager.stopUpdatingLocation()
     }
+    
     func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
         print(status)
         if status == .authorizedAlways || status == .authorizedWhenInUse{
             manager.requestLocation()
         }else{
             reject(LocationError.denied)
+        }
+    }
+    
+    var lastLocation:CLLocationCoordinate2D?{
+        set{
+            if let coord = newValue{
+                UserDefaults.standard.set([coord.latitude,coord.longitude], forKey: "lastLocation")
+            }
+        }
+        get{
+            if let coord = UserDefaults.standard.array(forKey:"lastLocation") as? [Double]{
+                return CLLocationCoordinate2D(latitude: coord[0], longitude: coord[1])
+            }
+            return nil
         }
     }
     

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>974015809940-ckh4h92df7r8qmm29s47e4lg4ub0iekp.apps.googleusercontent.com</string>
+	<string>974015809940-3svns81avld62p2gctr6grelkk61fvvn.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.974015809940-ckh4h92df7r8qmm29s47e4lg4ub0iekp</string>
+	<string>com.googleusercontent.apps.974015809940-3svns81avld62p2gctr6grelkk61fvvn</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBFJfN-TXOMXBDsMXvV3FO8GAgRTyA3KoE</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,23 +13,23 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.unrelatedlabs.iphone.infectionaler3</string>
+	<string>com.unrelatedlabs.iphone.infectionalert</string>
 	<key>PROJECT_ID</key>
 	<string>infection-alert</string>
 	<key>STORAGE_BUCKET</key>
 	<string>infection-alert.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:974015809940:ios:a3d96cf3b5071129372781</string>
+	<string>1:974015809940:ios:a6f64eb74937a6d6372781</string>
 	<key>DATABASE_URL</key>
 	<string>https://infection-alert.firebaseio.com</string>
 </dict>

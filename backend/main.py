@@ -26,8 +26,29 @@ app = flask.Flask(__name__)
 client = bigquery.Client()
 
 
-table_id = "infection-alert.test.heartrate"
 
+def get_table_id(production):
+    if production:
+        return "infection-alert.data.heartrate"
+    else:
+        return "infection-alert.test.heartrate"
+
+import datetime
+
+production_pub_key = open("production.public.pem","r").read()
+
+def isProduction(token):
+    if "production" not in token:
+        return False
+
+    prod_token = token["production"]
+
+
+    try:
+        verified = jwt.decode(prod_token, key=production_pub_key, verify=True)
+        return verified["uid"] == token["uid"]
+    except BaseException as e:
+        print(e)
 
 
 @app.route("/api/heartrate",methods=["POST"])
@@ -37,6 +58,7 @@ def ingest():
 
     data = flask.request.get_json()
 
+    production = False
 
     if flask.request.headers.get("Authorization","").startswith("Bearer "):
         token = flask.request.headers.get("Authorization", "")[len("Bearer "):]
@@ -54,12 +76,16 @@ def ingest():
         for record in data:
             record['user_id'] = user_id
 
+        production = isProduction(decoded)
+
+    print("production",production)
+
+    for record in data:
+        record['modified'] = datetime.datetime.now().isoformat()
+        record["appVersion"] = flask.request.headers.get("X-ClientVersion","unknown")
 
 
-
-    print( json.dumps( data,indent=1))
-
-    table = client.get_table(table_id)  # Make an API request.
+    table = client.get_table(get_table_id(production))  # Make an API request.
     rows_to_insert = flask.request.get_json()
 
     errors = client.insert_rows_json(table, rows_to_insert)  # Make an API request.

@@ -12,6 +12,7 @@ target 'Infection Alert' do
   pod 'Crashlytics', '~> 3.14.0'
   pod 'Firebase/Analytics'
   pod 'Firebase/Messaging'
+  pod 'Firebase/InAppMessaging'
 
 # add pods for any other desired Firebase products
 # https://firebase.google.com/docs/ios/setup#available-pods

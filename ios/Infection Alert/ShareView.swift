@@ -47,7 +47,7 @@ struct ShareView: View {
                 }
             }
             }.frame(maxWidth:.infinity).sheet(isPresented: $showShareSheet) {
-                ShareSheet(activityItems: [String("Check out infection alert."),URL(string: "https://www.google.com")])
+                ShareSheet(activityItems: [String("To track the spread of the infections through the population, we need anonymized heart rate data from as many people as possible. Please download this app."), URL(string: "https://bit.ly/infection-alert")])
             }.padding(20).background(Color.white).cornerRadius(8).shadow(radius: 8).padding(10).background(Color.clear).padding(.top,-10)
         }
     }

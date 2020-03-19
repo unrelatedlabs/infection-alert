@@ -10,19 +10,20 @@ import Foundation
 import SwiftUI
 import CoreLocation
 import WebKit
+import Firebase
 
 struct WebView: UIViewRepresentable {
     var url:String
     func makeUIView(context: Context) -> WKWebView {
         let webView = WKWebView()
-//        webView.scrollView.isScrollEnabled = false
+        //        webView.scrollView.isScrollEnabled = false
         
         print("url \(url)")
-
-//        if let url = URL(string: url) {
-//            let request = URLRequest(url: url)
-//            webView.load(request)
-//        }
+        
+        //        if let url = URL(string: url) {
+        //            let request = URLRequest(url: url)
+        //            webView.load(request)
+        //        }
         
         return webView
     }
@@ -49,6 +50,7 @@ class OnboardingModel:NSObject,CLLocationManagerDelegate,ObservableObject{
             self.updateState()
             (UIApplication.shared.delegate as! AppDelegate).datasource.registerUpdates()
             (UIApplication.shared.delegate as! AppDelegate).requestNotifications()
+            Analytics.logEvent("HealthKit permission granted", parameters: nil)
         }
     }
     
@@ -57,16 +59,23 @@ class OnboardingModel:NSObject,CLLocationManagerDelegate,ObservableObject{
     }
     
     func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
+        if status == .authorizedAlways || status == .authorizedWhenInUse{
+            Analytics.logEvent("Location permission granted", parameters: nil)
+        }else{
+            Analytics.logEvent("Location permission rejected", parameters: nil)
+        }
+
         updateState()
     }
     
     private func updateState(){
         self.locationEnabled = Set([CLAuthorizationStatus.authorizedAlways,CLAuthorizationStatus.authorizedWhenInUse]).contains( CLLocationManager.authorizationStatus() )
+        self.locationDenied = Set([CLAuthorizationStatus.denied,CLAuthorizationStatus.restricted]).contains( CLLocationManager.authorizationStatus() )
         self.heartrateEnabled = (UIApplication.shared.delegate as! AppDelegate).datasource.isAuthorizationRequested
         print("Update state locationEnabled: \(self.locationEnabled) heartrateEnabled:\(self.heartrateEnabled)")
         self.complete = self.locationEnabled && self.heartrateEnabled
     }
-    
+    @Published var locationDenied:Bool = false
     @Published var locationEnabled:Bool = false
     
     @Published var complete:Bool = false{
@@ -101,40 +110,45 @@ struct OnboardingView:View{
             Divider()
             VStack(alignment: .leading){
                 Text("Please enable Heart Rate and Location to get started.").padding(.bottom,6)
-            HStack{
-                Text("Heart Rate")
-                Spacer()
-                if !onboarding.heartrateEnabled{
-                    Button(action:{
-                        self.onboarding.triggerHeartRatePermision()
-                    }){
-                        Text("Enable").padding(6).padding(.leading,10).padding(.trailing,10).background(Color.blue).foregroundColor(Color.white).cornerRadius(7)
+                HStack{
+                    Text("Heart Rate")
+                    Spacer()
+                    if !onboarding.heartrateEnabled{
+                        Button(action:{
+                            self.onboarding.triggerHeartRatePermision()
+                        }){
+                            Text("Enable").padding(6).padding(.leading,10).padding(.trailing,10).background(Color.blue).foregroundColor(Color.white).cornerRadius(7)
+                        }
+                    }else{
+                        Text("Enabled").padding(6).padding(.leading,10).padding(.trailing,6)
                     }
-                }else{
-                    Text("Enabled").padding(6).padding(.leading,10).padding(.trailing,6)
                 }
-            }
-            HStack{
-                Text("Location")
-                Spacer()
-                if !onboarding.locationEnabled{
-                    Button(action:{
-                        self.onboarding.triggerLocationPermission()
-                    }){
-                        Text("Enable").padding(6).padding(.leading,10).padding(.trailing,10).background(Color.blue).foregroundColor(Color.white).cornerRadius(7)
+                HStack{
+                    Text("Location")
+                    Spacer()
+                    if !onboarding.locationEnabled{
+                        Button(action:{
+                            if self.onboarding.locationDenied{
+                                UIApplication.shared.open(URL(string:UIApplication.openSettingsURLString)!)
+                                
+                            }else{
+                                self.onboarding.triggerLocationPermission()
+                            }
+                        }){
+                            Text("Enable").padding(6).padding(.leading,10).padding(.trailing,10).background(Color.blue).foregroundColor(Color.white).cornerRadius(7)
+                        }
+                    }else{
+                        Text("Enabled").padding(6).padding(.leading,10).padding(.trailing,6)
                     }
-                }else{
-                    Text("Enabled").padding(6).padding(.leading,10).padding(.trailing,6)
-                }
-            }.padding(.top,15).padding(.bottom,15)
+                }.padding(.top,15).padding(.bottom,15)
             }.padding(10).background(Color.white)
-//            Toggle(isOn: $onboarding.heartrateEnabled) {
-//                Text("Enable Heart Rate")
-//            }.padding(.vertical,10)
-//            Toggle(isOn: $onboarding.locationEnabled) {
-//                Text("Enable Location")
-//            }.padding(.vertical,10)
-            }
+            //            Toggle(isOn: $onboarding.heartrateEnabled) {
+            //                Text("Enable Heart Rate")
+            //            }.padding(.vertical,10)
+            //            Toggle(isOn: $onboarding.locationEnabled) {
+            //                Text("Enable Location")
+            //            }.padding(.vertical,10)
+        }
         
     }
 }
