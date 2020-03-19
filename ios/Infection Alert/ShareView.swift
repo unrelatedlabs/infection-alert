@@ -7,6 +7,7 @@
 //
 
 import SwiftUI
+import FirebaseAnalytics
 
 struct ShareSheet: UIViewControllerRepresentable {
     typealias Callback = (_ activityType: UIActivity.ActivityType?, _ completed: Bool, _ returnedItems: [Any]?, _ error: Error?) -> Void
@@ -37,19 +38,27 @@ struct ShareView: View {
             Button(action: {
                 self.showShareSheet = true
             }){
-            VStack{
-                Text("To track the spread of the infections through the population, we need anonymized heart rate data from as many people as possible. Please help by sharing the app with your friends.").foregroundColor(Color.black).fixedSize(horizontal: false, vertical: true)
-                HStack{
-                     Spacer()
-                        Text("Share the App")
-                        Image(systemName: "envelope")
-                    
+                VStack{
+                    Text("To track the spread of the infections through the population, we need anonymized heart rate data from as many people as possible. Please help by sharing the app with your friends.").foregroundColor(Color.black).fixedSize(horizontal: false, vertical: true)
+                    HStack{
+                         Spacer()
+                            Text("Share the App")
+                            Image(systemName: "envelope")
+                        
+                    }
                 }
-            }
             }.frame(maxWidth:.infinity).sheet(isPresented: $showShareSheet) {
-                ShareSheet(activityItems: [String("To track the spread of the infections through the population, we need anonymized heart rate data from as many people as possible. Please download this app."), URL(string: "https://bit.ly/infection-alert")])
+                
+                self.share()
+                
             }.padding(20).background(Color.white).cornerRadius(8).shadow(radius: 8).padding(10).background(Color.clear).padding(.top,-10)
         }
+    }
+    
+    func share() -> some View{
+        
+        Analytics.logEvent("share", parameters: nil)
+        return ShareSheet(activityItems: [String("To track the spread of the infections through the population, we need anonymized heart rate data from as many people as possible. Please download this app."), URL(string: "https://bit.ly/infection-alert")])
     }
 }
 
