@@ -28,6 +28,8 @@
 	<string>Analyzes resting heart rate to look for infections.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>For tracking the locations of possible infections. Your location is randomized to a 2 block area to preserve privacy.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>For tracking the locations of possible infections. Your location is randomized to a 2 block area to preserve privacy.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>For tracking the locations of possible infections. Your location is randomized to a 2 block area to preserve privacy.</string>
 	<key>UIApplicationSceneManifest</key>
