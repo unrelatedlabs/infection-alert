@@ -132,7 +132,7 @@ class InfectionAnalyzer: NSObject,ObservableObject {
                 }
             }
             
-            let sleepHeartRateValues = pastdays.filter{ $0.sleepHeartRate != nil }.map{ $0.sleepHeartRate! }
+            let sleepHeartRateValues = pastdays.filter{ $0.sleepHeartRate != nil }.map{ $0.sleepHeartRate ?? 0.0 }
             if sleepHeartRateValues.count < minBaselineDays{
                 day.sleepBaseline = nil
             }else{
@@ -142,7 +142,7 @@ class InfectionAnalyzer: NSObject,ObservableObject {
                 }
             }
             
-            let dayHeartRateValues = pastdays.filter{ $0.dayHeartRate != nil }.map{ $0.dayHeartRate! }
+            let dayHeartRateValues = pastdays.filter{ $0.dayHeartRate != nil }.map{ $0.dayHeartRate ?? 0.0 }
             if dayHeartRateValues.count < minBaselineDays{
                 day.dayBaseline = nil
             }else{

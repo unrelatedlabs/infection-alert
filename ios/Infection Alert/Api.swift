@@ -43,11 +43,10 @@ class Authentication{
     }
     
     func generateKey() -> String{
-
-        let p256PrivateKey = try! ECPrivateKey.make(for: .prime256v1)
-        let privateKeyPEM = p256PrivateKey.pemString
-        print("privateKeyPEM",privateKeyPEM)
-        return privateKeyPEM
+        let p256PrivateKey = try? ECPrivateKey.make(for: .prime256v1)
+        let privateKeyPEM = p256PrivateKey?.pemString
+        print("privateKeyPEM",privateKeyPEM ?? "")
+        return privateKeyPEM ?? ""
     }
     
     func get_or_generate_keys()->String{
@@ -64,10 +63,12 @@ class Authentication{
       User id is a sha1 of the public key.
       public key is sent in the jwt token for verification
      */
-    func new_jwt_token() -> String{
+    func new_jwt_token() -> String {
         let key = get_or_generate_keys()
         
-        let jwtSigner = JWTSigner.es256(privateKey: key.data(using: .utf8)! )
+        guard let keyData = key.data(using: .utf8) else { return "" }
+        
+        let jwtSigner = JWTSigner.es256(privateKey: keyData)
         let myHeader = Header()
 
         struct MyClaims: Claims {
@@ -77,35 +78,28 @@ class Authentication{
             var production: String?
         }
         
-        let pubKey = try! ECPrivateKey.init(key: key).extractPublicKey()
+        guard let pubKey = try? ECPrivateKey.init(key: key).extractPublicKey() else { return "" }
         var userClaims = MyClaims( exp: Date(timeIntervalSinceNow: 3600), uid: pubKey.pemString.sha1() ,pbk: pubKey.pemString)
         
         #if !DEBUG
         if let productionKey = self.productionKey{
-            let pubKey = try! ECPrivateKey.init(key: productionKey).extractPublicKey()
             let productionClaims = MyClaims(exp: Date(timeIntervalSinceNow: 60*10),uid:userClaims.uid)
-            
-            let productionJwtSigner = JWTSigner.es256(privateKey: productionKey.data(using: .utf8)! )
-
-            var productionJWT = JWT(header: myHeader, claims: productionClaims)
-            let signedProductionJWT = try! productionJWT.sign(using: productionJwtSigner)
-            userClaims.production = signedProductionJWT
+            if let productionKeyData = productionKey.data(using: .utf8) {
+                let productionJwtSigner = JWTSigner.es256(privateKey: productionKey.data(using: .utf8))
+                var productionJWT = JWT(header: myHeader, claims: productionClaims)
+                let signedProductionJWT = try! productionJWT.sign(using: productionJwtSigner)
+                userClaims.production = signedProductionJWT
+            }
         }
         #endif
-        
-
 
         //let myClaims = ClaimsStandardJWT(exp: Date(timeIntervalSinceNow: 60*10))
         
         var myJWT = JWT(header: myHeader, claims: userClaims)
+        
+        let signedJWT = try? myJWT.sign(using: jwtSigner)
 
-        
-        let signedJWT = try! myJWT.sign(using: jwtSigner)
-        
-
-        return signedJWT
-        
-    
+        return signedJWT ?? ""
     }
 }
 

@@ -79,7 +79,7 @@ DEPENDENCIES:
   - Firebase/Messaging
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - Crashlytics
     - Fabric
     - Firebase
@@ -109,4 +109,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 265cfa74132c7ceaaa9831d872886e8c809a9039
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4

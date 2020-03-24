@@ -29,23 +29,23 @@
 		CC1507F524196D270028BF9D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC1507F424196D270028BF9D /* Preview Assets.xcassets */; };
 		CC15080624196DCD0028BF9D /* InfectionAnalyzer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC15080524196DCD0028BF9D /* InfectionAnalyzer.swift */; };
 		CC15080824196E360028BF9D /* HeartRateDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC15080724196E360028BF9D /* HeartRateDataSource.swift */; };
-		CC15080E241970FD0028BF9D /* Promises in Frameworks */ = {isa = PBXBuildFile; productRef = CC15080D241970FD0028BF9D /* Promises */; };
-		CC1508102419714B0028BF9D /* FBLPromises in Frameworks */ = {isa = PBXBuildFile; productRef = CC15080F2419714B0028BF9D /* FBLPromises */; };
+		CC15080E241970FD0028BF9D /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = CC15080D241970FD0028BF9D /* SwiftPackageProductDependency */; };
+		CC1508102419714B0028BF9D /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = CC15080F2419714B0028BF9D /* SwiftPackageProductDependency */; };
 		CC150813241974890028BF9D /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC150812241974890028BF9D /* HealthKit.framework */; };
 		CC150816241974BC0028BF9D /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC150815241974BC0028BF9D /* HealthKit.framework */; };
-		D01E0080241EEC7E009E3B5D /* CareKitUI in Frameworks */ = {isa = PBXBuildFile; productRef = D01E007F241EEC7E009E3B5D /* CareKitUI */; };
-		D01E0082241EEC7E009E3B5D /* CareKit in Frameworks */ = {isa = PBXBuildFile; productRef = D01E0081241EEC7E009E3B5D /* CareKit */; };
-		D01E0084241EEC7E009E3B5D /* CareKitStore in Frameworks */ = {isa = PBXBuildFile; productRef = D01E0083241EEC7E009E3B5D /* CareKitStore */; };
+		D01E0080241EEC7E009E3B5D /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = D01E007F241EEC7E009E3B5D /* SwiftPackageProductDependency */; };
+		D01E0082241EEC7E009E3B5D /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = D01E0081241EEC7E009E3B5D /* SwiftPackageProductDependency */; };
+		D01E0084241EEC7E009E3B5D /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = D01E0083241EEC7E009E3B5D /* SwiftPackageProductDependency */; };
 		D0310A252422DB7700A418F1 /* cert in Resources */ = {isa = PBXBuildFile; fileRef = D0310A242422DB7600A418F1 /* cert */; };
 		D0324B06241C229F004096FA /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0324B05241C229F004096FA /* Api.swift */; };
-		D03FD9C7241C9FA2007E21BE /* CryptorECC in Frameworks */ = {isa = PBXBuildFile; productRef = D03FD9C6241C9FA2007E21BE /* CryptorECC */; };
+		D03FD9C7241C9FA2007E21BE /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = D03FD9C6241C9FA2007E21BE /* SwiftPackageProductDependency */; };
 		D058304B241C8BB100DA8BE3 /* LocationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = D058304A241C8BB100DA8BE3 /* LocationProvider.swift */; };
-		D058304E241C949000DA8BE3 /* SwiftJWT in Frameworks */ = {isa = PBXBuildFile; productRef = D058304D241C949000DA8BE3 /* SwiftJWT */; };
+		D058304E241C949000DA8BE3 /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = D058304D241C949000DA8BE3 /* SwiftPackageProductDependency */; };
 		D059057B241DDFED00CCFF61 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D059057A241DDFED00CCFF61 /* GoogleService-Info.plist */; };
 		D059057C241DDFED00CCFF61 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D059057A241DDFED00CCFF61 /* GoogleService-Info.plist */; };
 		D059057D241DDFED00CCFF61 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D059057A241DDFED00CCFF61 /* GoogleService-Info.plist */; };
 		D05E35DE241F46F8001BE738 /* sample.json in Resources */ = {isa = PBXBuildFile; fileRef = D05E35DD241F46F8001BE738 /* sample.json */; };
-		D0AF1C8A241ED0D100B6BC99 /* SigmaSwiftStatistics in Frameworks */ = {isa = PBXBuildFile; productRef = D0AF1C89241ED0D100B6BC99 /* SigmaSwiftStatistics */; };
+		D0AF1C8A241ED0D100B6BC99 /* BuildFile in Frameworks */ = {isa = PBXBuildFile; productRef = D0AF1C89241ED0D100B6BC99 /* SwiftPackageProductDependency */; };
 		D0FEF3D0241F50B700B24FC6 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FEF3CF241F50B700B24FC6 /* OnboardingView.swift */; };
 		D0FEF3D2241F5B1000B24FC6 /* InfectionTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FEF3D1241F5B1000B24FC6 /* InfectionTabView.swift */; };
 		D0FEF3D4241F5B2A00B24FC6 /* ControllerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FEF3D3241F5B2A00B24FC6 /* ControllerView.swift */; };
@@ -145,15 +145,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D01E0082241EEC7E009E3B5D /* CareKit in Frameworks */,
+				D01E0082241EEC7E009E3B5D /* BuildFile in Frameworks */,
 				CC150813241974890028BF9D /* HealthKit.framework in Frameworks */,
-				CC15080E241970FD0028BF9D /* Promises in Frameworks */,
-				D058304E241C949000DA8BE3 /* SwiftJWT in Frameworks */,
-				D03FD9C7241C9FA2007E21BE /* CryptorECC in Frameworks */,
-				D0AF1C8A241ED0D100B6BC99 /* SigmaSwiftStatistics in Frameworks */,
-				D01E0080241EEC7E009E3B5D /* CareKitUI in Frameworks */,
-				D01E0084241EEC7E009E3B5D /* CareKitStore in Frameworks */,
-				CC1508102419714B0028BF9D /* FBLPromises in Frameworks */,
+				CC15080E241970FD0028BF9D /* BuildFile in Frameworks */,
+				D058304E241C949000DA8BE3 /* BuildFile in Frameworks */,
+				D03FD9C7241C9FA2007E21BE /* BuildFile in Frameworks */,
+				D0AF1C8A241ED0D100B6BC99 /* BuildFile in Frameworks */,
+				D01E0080241EEC7E009E3B5D /* BuildFile in Frameworks */,
+				D01E0084241EEC7E009E3B5D /* BuildFile in Frameworks */,
+				CC1508102419714B0028BF9D /* BuildFile in Frameworks */,
 				2FCEFD67CD4D7E37B6DBE9EA /* Pods_Infection_Alert.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -326,14 +326,14 @@
 			);
 			name = "Infection Alert";
 			packageProductDependencies = (
-				CC15080D241970FD0028BF9D /* Promises */,
-				CC15080F2419714B0028BF9D /* FBLPromises */,
-				D058304D241C949000DA8BE3 /* SwiftJWT */,
-				D03FD9C6241C9FA2007E21BE /* CryptorECC */,
-				D0AF1C89241ED0D100B6BC99 /* SigmaSwiftStatistics */,
-				D01E007F241EEC7E009E3B5D /* CareKitUI */,
-				D01E0081241EEC7E009E3B5D /* CareKit */,
-				D01E0083241EEC7E009E3B5D /* CareKitStore */,
+				CC15080D241970FD0028BF9D /* SwiftPackageProductDependency */,
+				CC15080F2419714B0028BF9D /* SwiftPackageProductDependency */,
+				D058304D241C949000DA8BE3 /* SwiftPackageProductDependency */,
+				D03FD9C6241C9FA2007E21BE /* SwiftPackageProductDependency */,
+				D0AF1C89241ED0D100B6BC99 /* SwiftPackageProductDependency */,
+				D01E007F241EEC7E009E3B5D /* SwiftPackageProductDependency */,
+				D01E0081241EEC7E009E3B5D /* SwiftPackageProductDependency */,
+				D01E0083241EEC7E009E3B5D /* SwiftPackageProductDependency */,
 			);
 			productName = "Infection Alert";
 			productReference = CC1507BD24196D240028BF9D /* Infection Alert.app */;
@@ -407,11 +407,11 @@
 			);
 			mainGroup = CC1507B424196D240028BF9D;
 			packageReferences = (
-				CC15080924196F4E0028BF9D /* XCRemoteSwiftPackageReference "promises" */,
-				D058304C241C949000DA8BE3 /* XCRemoteSwiftPackageReference "Swift-JWT" */,
-				D03FD9C5241C9FA2007E21BE /* XCRemoteSwiftPackageReference "BlueECC" */,
-				D0AF1C88241ED0D100B6BC99 /* XCRemoteSwiftPackageReference "SigmaSwiftStatistics" */,
-				D01E007E241EEC7D009E3B5D /* XCRemoteSwiftPackageReference "CareKit" */,
+				CC15080924196F4E0028BF9D /* RemoteSwiftPackageReference */,
+				D058304C241C949000DA8BE3 /* RemoteSwiftPackageReference */,
+				D03FD9C5241C9FA2007E21BE /* RemoteSwiftPackageReference */,
+				D0AF1C88241ED0D100B6BC99 /* RemoteSwiftPackageReference */,
+				D01E007E241EEC7D009E3B5D /* RemoteSwiftPackageReference */,
 			);
 			productRefGroup = CC1507BE24196D240028BF9D /* Products */;
 			projectDirPath = "";
@@ -468,24 +468,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Infection Alert/Pods-Infection Alert-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
-				"${BUILT_PRODUCTS_DIR}/Protobuf/protobuf.framework",
-				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+				"${PODS_ROOT}/Target Support Files/Pods-Infection Alert/Pods-Infection Alert-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-			);
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/protobuf.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+				"${PODS_ROOT}/Target Support Files/Pods-Infection Alert/Pods-Infection Alert-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Infection Alert/Pods-Infection Alert-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Infection Alert/Pods-Infection Alert-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		60EF40572C799063290B52F0 /* [CP] Check Pods Manifest.lock */ = {
@@ -937,7 +928,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		CC15080924196F4E0028BF9D /* XCRemoteSwiftPackageReference "promises" */ = {
+		CC15080924196F4E0028BF9D /* RemoteSwiftPackageReference */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/google/promises.git";
 			requirement = {
@@ -945,7 +936,7 @@
 				minimumVersion = 1.2.8;
 			};
 		};
-		D01E007E241EEC7D009E3B5D /* XCRemoteSwiftPackageReference "CareKit" */ = {
+		D01E007E241EEC7D009E3B5D /* RemoteSwiftPackageReference */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/carekit-apple/CareKit";
 			requirement = {
@@ -953,7 +944,7 @@
 				minimumVersion = 2.0.0;
 			};
 		};
-		D03FD9C5241C9FA2007E21BE /* XCRemoteSwiftPackageReference "BlueECC" */ = {
+		D03FD9C5241C9FA2007E21BE /* RemoteSwiftPackageReference */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/IBM-Swift/BlueECC.git";
 			requirement = {
@@ -961,7 +952,7 @@
 				minimumVersion = 1.2.5;
 			};
 		};
-		D058304C241C949000DA8BE3 /* XCRemoteSwiftPackageReference "Swift-JWT" */ = {
+		D058304C241C949000DA8BE3 /* RemoteSwiftPackageReference */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/IBM-Swift/Swift-JWT.git";
 			requirement = {
@@ -969,7 +960,7 @@
 				minimumVersion = 3.6.1;
 			};
 		};
-		D0AF1C88241ED0D100B6BC99 /* XCRemoteSwiftPackageReference "SigmaSwiftStatistics" */ = {
+		D0AF1C88241ED0D100B6BC99 /* RemoteSwiftPackageReference */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/evgenyneu/SigmaSwiftStatistics.git";
 			requirement = {
@@ -980,44 +971,44 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		CC15080D241970FD0028BF9D /* Promises */ = {
+		CC15080D241970FD0028BF9D /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = CC15080924196F4E0028BF9D /* XCRemoteSwiftPackageReference "promises" */;
+			package = CC15080924196F4E0028BF9D /* RemoteSwiftPackageReference */;
 			productName = Promises;
 		};
-		CC15080F2419714B0028BF9D /* FBLPromises */ = {
+		CC15080F2419714B0028BF9D /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = CC15080924196F4E0028BF9D /* XCRemoteSwiftPackageReference "promises" */;
+			package = CC15080924196F4E0028BF9D /* RemoteSwiftPackageReference */;
 			productName = FBLPromises;
 		};
-		D01E007F241EEC7E009E3B5D /* CareKitUI */ = {
+		D01E007F241EEC7E009E3B5D /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = D01E007E241EEC7D009E3B5D /* XCRemoteSwiftPackageReference "CareKit" */;
+			package = D01E007E241EEC7D009E3B5D /* RemoteSwiftPackageReference */;
 			productName = CareKitUI;
 		};
-		D01E0081241EEC7E009E3B5D /* CareKit */ = {
+		D01E0081241EEC7E009E3B5D /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = D01E007E241EEC7D009E3B5D /* XCRemoteSwiftPackageReference "CareKit" */;
+			package = D01E007E241EEC7D009E3B5D /* RemoteSwiftPackageReference */;
 			productName = CareKit;
 		};
-		D01E0083241EEC7E009E3B5D /* CareKitStore */ = {
+		D01E0083241EEC7E009E3B5D /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = D01E007E241EEC7D009E3B5D /* XCRemoteSwiftPackageReference "CareKit" */;
+			package = D01E007E241EEC7D009E3B5D /* RemoteSwiftPackageReference */;
 			productName = CareKitStore;
 		};
-		D03FD9C6241C9FA2007E21BE /* CryptorECC */ = {
+		D03FD9C6241C9FA2007E21BE /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = D03FD9C5241C9FA2007E21BE /* XCRemoteSwiftPackageReference "BlueECC" */;
+			package = D03FD9C5241C9FA2007E21BE /* RemoteSwiftPackageReference */;
 			productName = CryptorECC;
 		};
-		D058304D241C949000DA8BE3 /* SwiftJWT */ = {
+		D058304D241C949000DA8BE3 /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = D058304C241C949000DA8BE3 /* XCRemoteSwiftPackageReference "Swift-JWT" */;
+			package = D058304C241C949000DA8BE3 /* RemoteSwiftPackageReference */;
 			productName = SwiftJWT;
 		};
-		D0AF1C89241ED0D100B6BC99 /* SigmaSwiftStatistics */ = {
+		D0AF1C89241ED0D100B6BC99 /* SwiftPackageProductDependency */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = D0AF1C88241ED0D100B6BC99 /* XCRemoteSwiftPackageReference "SigmaSwiftStatistics" */;
+			package = D0AF1C88241ED0D100B6BC99 /* RemoteSwiftPackageReference */;
 			productName = SigmaSwiftStatistics;
 		};
 /* End XCSwiftPackageProductDependency section */
