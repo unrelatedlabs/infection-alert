@@ -46,10 +46,11 @@ class OnboardingModel:NSObject,CLLocationManagerDelegate,ObservableObject{
     @Published var heartrateEnabled:Bool = false
     
     func triggerHeartRatePermision() {
-        (UIApplication.shared.delegate as! AppDelegate).datasource.askPermission().then{ success in
+        guard let appDelegate = UIApplication.shared.delegate as? AppDelegate else { return }
+        appDelegate.datasource.askPermission().then{ success in
             self.updateState()
-            (UIApplication.shared.delegate as! AppDelegate).datasource.registerUpdates()
-            (UIApplication.shared.delegate as! AppDelegate).requestNotifications()
+            appDelegate.datasource.registerUpdates()
+            appDelegate.requestNotifications()
             Analytics.logEvent("HealthKit permission granted", parameters: nil)
         }
     }
